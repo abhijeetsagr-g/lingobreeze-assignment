@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74580311017",
+    "project_id": "lingobreeze-7dd91",
+    "storage_bucket": "lingobreeze-7dd91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74580311017:android:3350960bc3b3e5d171a978",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLR6CcB63nHIpeTEIJ6naOEtYD6JDSfyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
