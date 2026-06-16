@@ -8,6 +8,7 @@ A single-feature language-learning app that lets users save vocabulary words and
 lingobreeeze/
 ├── flutter-app/          ← Flutter mobile app
 ├── backend/              ← Node.js + Express API
+├── pictures/             ← Screenshots
 └── README.md
 ```
 
@@ -76,6 +77,14 @@ flutter run                    # Connected device / emulator
 cd flutter-app
 flutter test test/vocab_word_test.dart
 ```
+
+---
+
+## Screenshots
+
+| Empty State | Add Word Dialog | One Word | Two Words |
+|-------------|----------------|----------|-----------|
+| ![Empty](pictures/empty_state.png) | ![Dialog](pictures/add_dialog.png) | ![One](pictures/one_word.png) | ![Two](pictures/two_word.png) |
 
 ---
 
